@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img src="./assets/logo.png">学习github推送！！
+    <img src="./assets/logo.png">学习github推送？？？
     <router-view/>
   </div>
 </template>
